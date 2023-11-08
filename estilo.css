@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+
+.nivel{
+    text-align: center;
+}
+
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: darkmagenta;
+}
+
+.paragr1{
+    margin: 80px;
+    background-color: pink;
+}
+
+.subtitulo_tarefa{
+    text-align: center; 
+    background:purple;
+    color:white; 
+    font-family:arial;
+}
+
+.paragr2{
+    padding: 80px;
+    background-color: pink;
+}
+
+.paragr3{
+    border: 20px solid purple;
+    background-color: pink;
+}
+.link{
+    text-align: center;
+}
