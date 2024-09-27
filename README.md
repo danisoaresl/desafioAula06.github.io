@@ -5,4 +5,3 @@ Utilizar uma margem de 80px e alterar a cor de fundo em um parágrafo de texto n
 Incluir um link para acessar uma página, seguido por uma lista não ordenada, uma lista ordenada e linhas. 
 É obrigatório seguir a ordem do layout e das tags.
 
-# ELasNaTech
